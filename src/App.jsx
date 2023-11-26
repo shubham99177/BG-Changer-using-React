@@ -4,7 +4,7 @@ import './App.css'
 
 function App() {
   const [color, setcolor] = useState("olive")
-  const [Radius, setradius] = useState("2px")
+  const [Radius] = useState("2px")
 
 
   return (
