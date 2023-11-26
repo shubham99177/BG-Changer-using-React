@@ -1,4 +1,9 @@
 {
+  "homepage": "https://your-username.github.io/your-repo-name",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
   "name": "04bgchanger",
   "private": true,
   "version": "0.0.0",
