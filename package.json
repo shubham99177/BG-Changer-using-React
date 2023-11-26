@@ -1,5 +1,5 @@
 {
-  "homepage": "https://your-username.github.io/your-repo-name",
+  "homepage": "https://shubham99177.github.io/BG-Changer-using-React",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
